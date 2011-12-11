@@ -3,7 +3,7 @@
 	<groupId>com.horsefire.maven</groupId>
 	<artifactId>common-pom</artifactId>
 	<packaging>pom</packaging>
-	<version>0.3-SNAPSHOT</version>
+	<version>0.3</version>
 	<name>Horsefire common pom</name>
 	<scm>
 		<connection>scm:git:git@github.com:stevearm/horsefire-common-pom.git</connection>
