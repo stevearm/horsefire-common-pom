@@ -6,9 +6,9 @@
 	<version>0.3-SNAPSHOT</version>
 	<name>Horsefire common pom</name>
 	<scm>
-		<connection>${horsefire.git.repo}/maven/common-pom.git</connection>
-		<developerConnection>${horsefire.git.repo}/maven/common-pom.git</developerConnection>
-		<url>${horsefire.git.repo}/maven/common-pom.git</url>
+		<connection>scm:git:git@github.com:stevearm/horsefire-common-pom.git</connection>
+		<url>scm:git:git@github.com:stevearm/horsefire-common-pom.git</url>
+		<developerConnection>scm:git:git@github.com:stevearm/horsefire-common-pom.git</developerConnection>
 	</scm>
 
 	<build>
